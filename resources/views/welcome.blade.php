@@ -11,6 +11,7 @@
 
     <p style="text-align:center;">Hello, My Name is Lister Y. Solijon</p>
     <p style="text-align:center;">22 years old</p>
-    <p style="text-align: center;">I live in Cagayan de Oro City, Misamis Oriental</p>
+    <p style="text-align:center;">I live in Cagayan de Oro City, Misamis Oriental</p>
+    <p style="text-align:center;">Testing</p>
 </body>
 </html>
