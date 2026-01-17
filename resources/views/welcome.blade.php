@@ -7,5 +7,8 @@
 </head>
 <body>
     <h1 style="text-align:center;">My Portfolio</h1>
+    <h2 style="text-align:center;">Welcome to my Portfolio</h2>
+
+    <p style="text-align:center;">Hello, My Name is Lister Y. Solijon</p>
 </body>
 </html>
